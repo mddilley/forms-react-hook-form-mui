@@ -1,6 +1,6 @@
-# MDX Deck + Code Surfer template
+# React forms with `react-hook-form` and Material UI
 
-This project was generated with the `npm init code-surfer-deck` command.
+This is a Code Surfer deck that covers using `react-hook-form` and Material UI to create React forms.
 
 ## Development
 
